@@ -83,6 +83,8 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.MaximumSize = new System.Drawing.Size(800, 533);
+            this.MinimumSize = new System.Drawing.Size(800, 533);
             this.Name = "MainForm";
             this.Text = "MainForm";
             this.ResumeLayout(false);
