@@ -21,6 +21,8 @@ namespace RezervaciaMiesteniek
         {
             this.Dispose();
         }
+<<<<<<< HEAD
+=======
 
         private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -66,5 +68,6 @@ namespace RezervaciaMiesteniek
         {
 
         }
+>>>>>>> c1b2bf49bf8b69f930b8881c4e5ffa2ee17510b2
     }
 }
