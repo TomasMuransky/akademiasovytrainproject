@@ -20,10 +20,13 @@ namespace RezervaciaMiesteniek
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             Database database = new Database();
 
             database.openConnection();
             database.closeConnection();
+=======
+>>>>>>> c1b2bf49bf8b69f930b8881c4e5ffa2ee17510b2
             MainForm mainform = new MainForm();
             this.Hide();
             mainform.ShowDialog();
@@ -39,9 +42,32 @@ namespace RezervaciaMiesteniek
             this.Show();
         }
 
+<<<<<<< HEAD
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             this.Close();
+=======
+       
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+>>>>>>> c1b2bf49bf8b69f930b8881c4e5ffa2ee17510b2
         }
     }
 }

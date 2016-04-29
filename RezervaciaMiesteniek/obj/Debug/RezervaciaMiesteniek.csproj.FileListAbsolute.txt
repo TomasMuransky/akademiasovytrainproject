@@ -10,4 +10,19 @@ c:\users\tomi\documents\visual studio 2015\Projects\RezervaciaMiesteniek\Rezerva
 C:\Users\tomi\Documents\Visual Studio 2015\Projects\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.AddUserWindow.resources
 C:\Users\tomi\Documents\Visual Studio 2015\Projects\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.LoginWindow.resources
 C:\Users\tomi\Documents\Visual Studio 2015\Projects\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.AddReservationWindow.resources
+<<<<<<< HEAD
 C:\Users\tomi\Documents\Visual Studio 2015\Projects\RezervaciaMiesteniek\RezervaciaMiesteniek\bin\Debug\MySql.Data.dll
+=======
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\bin\Debug\RezervaciaMiesteniek.exe.config
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.exe
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.pdb
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\bin\Debug\RezervaciaMiesteniek.exe
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\bin\Debug\RezervaciaMiesteniek.pdb
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.AddReservationWindow.resources
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.AddUserWindow.resources
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.LoginWindow.resources
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.MainForm.resources
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.Properties.Resources.resources
+C:\Users\Tomas\Desktop\RezervaciaMiesteniek\RezervaciaMiesteniek\obj\Debug\RezervaciaMiesteniek.csproj.GenerateResource.Cache
+>>>>>>> c1b2bf49bf8b69f930b8881c4e5ffa2ee17510b2
